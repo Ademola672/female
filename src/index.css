@@ -1,13 +1,26 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/*
+oluwapamilerin-website/
+├── public/
+│   ├── index.html
+│   └── images/
+│       ├── hero.jpg
+│       ├── about1.jpg
+│       ├── about2.jpg
+│       ├── gallery1.jpg
+│       ├── gallery2.jpg
+│       └── ... (add more images as needed)
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Hero.js
+│   │   ├── About.js
+│   │   ├── Gallery.js
+│   │   ├── Quotes.js
+│   │   ├── Contact.js
+│   │   └── Footer.js
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+├── package.json
+└── README.md
+*/
